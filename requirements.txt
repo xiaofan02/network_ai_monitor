@@ -1,0 +1,23 @@
+# Flask Web框架
+Flask==3.0.0
+
+# SSH连接库
+paramiko==3.4.0
+
+# HTTP请求库（用于调用AI API）
+requests==2.31.0
+
+# 异步任务处理
+Flask-SocketIO==5.3.5
+
+# 跨域资源共享
+Flask-CORS==4.0.0
+
+# JSON数据处理（Python内置，无需安装）
+# json
+
+# 时间和日期处理（Python内置，无需安装）
+# datetime
+
+# 文件操作（Python内置，无需安装）
+# os, shutil

@@ -1,0 +1,31 @@
+{
+    "current_provider": "siliconflow",
+    "providers": {
+        "siliconflow": {
+            "api_key": "sk-XXXXXXXXXXXXXXXXXXXX",
+            "api_url": "https://api.siliconflow.cn/v1/chat/completions",
+            "model": "Qwen/Qwen2.5-7B-Instruct",
+            "name": "硅基流动 (SiliconFlow)",
+            "temperature": 0.3,
+            "max_tokens": 2000
+        },
+        "openai": {
+            "name": "OpenAI",
+            "api_url": "https://api.openai.com/v1/chat/completions",
+            "api_key": "",
+            "model": "gpt-3.5-turbo"
+        },
+        "deepseek": {
+            "name": "DeepSeek",
+            "api_url": "https://api.deepseek.com/v1/chat/completions",
+            "api_key": "",
+            "model": "deepseek-chat"
+        },
+        "custom": {
+            "name": "自定义",
+            "api_url": "",
+            "api_key": "",
+            "model": ""
+        }
+    }
+}

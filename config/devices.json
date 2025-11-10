@@ -1,0 +1,38 @@
+[
+    {
+        "id": "e9a73888-f7ed-4d98-8435-f6d2e528201d",
+        "name": "Core3750",
+        "ip": "192.168.61.250",
+        "port": 22,
+        "username": "chuck",
+        "password": "pass.9999",
+        "vendor": "Cisco(IOS)",
+        "status": "unknown",
+        "model": "",
+        "serial_number": "",
+        "version": ""
+    },
+    {
+        "id": "0e055642-da1d-460d-9d6d-80a762af0a45",
+        "name": "Cisco_172.16.20.2",
+        "ip": "172.16.20.2",
+        "port": 22,
+        "username": "cisco",
+        "password": "cisco",
+        "vendor": "Cisco(IOS)",
+        "status": "unknown",
+        "model": "",
+        "serial_number": "",
+        "version": ""
+    },
+    {
+        "id": "57e52db2-8303-4d6f-9854-a4d2f2aae649",
+        "name": "vN9500-1#",
+        "ip": "192.168.171.181",
+        "port": "22",
+        "username": "admin",
+        "password": "admin@123",
+        "vendor": "Cisco(NX-OS)",
+        "status": "unknown"
+    }
+]
